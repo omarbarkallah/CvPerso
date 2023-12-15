@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Omar BARKALLAH",
+    "label": "System Administrator - DevOps Engineer",
+    "picture": "images/omar.png",
+    "x_pictureFallback": "images/omar.png",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "With a solid background in Sys Admin and Cloud DevOps roles, I specialize in optimizing cloud infrastructures and building scalable, cloud-native applications.<br />My skills span resource provisioning, automation, and CI/CD pipeline orchestration. I bring efficiency and innovation to your team, eager to contribute to your company's success.<br /><br /><ul><li><b>DevOps Engineering</b></li><li><b>Cloud/AWS</b></li><li><b>System Administration</b></li>",
+    "location": {
+      "country": "Tunisia",
+      "countryCode": "TN",
+      "region": "Sfax"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "josecoelho93",
+        "url": "https://www.linkedin.com/in/barkallah-omar",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "omarbarkallah",
+        "url": "https://github.com/omarbarkallah",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Stratis WorldWide",
+      "position": "System Administrator - DevOps Engineer",
+      "website": "hhttps://www.stratisworldwide.com/",
+      "startDate": "2023-11-21",
+      "endDate": "",
+      "summary": "Part of the SA/DevOps team, I'm helping StratisWorldwide to manage & secure their systems.",
+      "highlights": []
+    },
+    {
+      "company": "Fogits",
+      "position": "DevOps - Cloud Consultant",
+      "website": "https://www.fogits.com/",
+      "startDate": "2022-07-01",
+      "endDate": "2023-10-30",
+      "summary": "Im helping Fogits deliver the best experience to their customers.",
+      "highlights": []
+    },
+    {
+      "company": "Self-employed",
+      "position": "Software engineering consultant",
+      "website": "https://jcoelho93.netlify.com",
+      "startDate": "2021-01-15",
+      "endDate": "",
+      "summary": "Started working for myself, providing expertise on software development and DevOps culture and best practices for international startups.",
+      "highlights": []
+    },
+    {
+      "company": "INRGREF",
+      "position": "Web Developer",
+      "website": "https://feedzai.com",
+      "startDate": "2021-03-01",
+      "endDate": "2023-06-11",
+      "summary": "Started my first professional developer experience as a Web Developer for INREGREF",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "IPSAS Sfax",
+      "area": "Computer Engineering",
+      "studyType": "Engineering",
+      "startDate": "2021-09-15",
+      "endDate": "",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    },
+      {
+      "institution": "University Tunis el Manar",
+      "area": "Computer Science Fundamentals",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-15",
+      "endDate": "20121-06-01",
+      "courses": [
+        "Object Oriented Programming",
+        "Algorithm & Math",
+        "Web/Mobile programming",
+        "IT fundamentals"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "AWS",
+      "x_icon": "fa-brands fa-aws",
+      "x_description": "EC2, VPC, Cognito, CloudFormation, RDS, S3, CloudFront, IAM and others"
+    },
+    {
+      "name": "Infrastructure as Code",
+      "x_icon": "fa-code",
+      "x_description": "Developing and maintaing infrastructure as code with Terraform, Packer and Vagrant"
+    },
+    {
+      "name": "Configuration Management",
+      "x_icon": "fa-gears",
+      "x_description": "Launching, configuring and maintaining cloud environments with Ansible"
+    },
+    {
+      "name": "CI/CD",
+      "x_icon": "fa-infinity",
+      "x_description": "Implementing continuous integration and deployment pipelines with Jenkins and GitLab CI"
+    },
+    {
+      "name": "Python",
+      "x_icon": "fa-brands fa-python",
+      "x_description": "Writting deployment tools and scripts, and automating all possible tasks with Python"
+    },
+    {
+      "name": "Monitoring",
+      "x_icon": "fa-chart-line",
+      "x_description": "Implementing centralized monitoring solution for cloud environments with Telegraf, InfluxDB and Grafana"
+    },
+    {
+      "name": "Serverless",
+      "x_icon": "fa-bolt",
+      "x_description": "Building reliable and cost efficient systems with Lambda functions and the serverless framework"
+    },
+    {
+      "name": "Containers",
+      "x_icon": "fa-brands fa-docker",
+      "x_description": "Delivering and distributing applications and tools with Docker, docker-compose and kubernetes"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect Associate",
+      "issuer": "Amazon Web Services Training and Certification",
+      "url": "https://www.credly.com/badges/263d35c5-83db-4f93-97a4-a84ee806da90/public_url",
+      "x_badgeId": "263d35c5-83db-4f93-97a4-a84ee806da90",
+      "x_imageId": "0e284c3f-5164-4b21-8660-0d84737941bc",
+      "x_imageName": "image.png"
+    },
+    {
+      "name": "HashiCorp Certified: Terraform Associate",
+      "issuer": "HashiCorp",
+      "url": "https://www.credly.com/badges/b5c9ee11-de03-482b-8b74-71c4eba299cf/public_url",
+      "x_badgeId": "b5c9ee11-de03-482b-8b74-71c4eba299cf",
+      "x_imageId": "99289602-861e-4929-8277-773e63a2fa6f",
+      "x_imageName": "image.png"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/badges/3b4c4056-b736-4a9b-bcad-5a8457ef72e1/public_url",
+      "x_badgeId": "3b4c4056-b736-4a9b-bcad-5a8457ef72e1",
+      "x_imageId": "f88d800c-5261-45c6-9515-0458e31c3e16",
+      "x_imageName": "ckad_from_cncfsite.png"
+    },
+    {
+      "name": "Certificate of Cloud Security Knowledge",
+      "issuer": "Cloud Security Alliance",
+      "url": "https://www.credly.com/badges/a597b998-5019-46d9-a93f-47841ae3bd64/public_url",
+      "x_badgeId": "a597b998-5019-46d9-a93f-47841ae3bd64",
+      "x_imageId": "25ba8143-ac0a-413c-8c66-01c9edc4a80f",
+      "x_imageName": "CCSK-v4-Credly-badge.png"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Football",
+      "x_icon": "fa-football"
+    },
+    {
+      "name": "Cat lover",
+      "x_icon": "fa-cat"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
